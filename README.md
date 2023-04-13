@@ -12,7 +12,7 @@ Create a function to color the circle to the depth values. Reference for color s
 
 Assign color values from light to dark to indicate depth.
 
-Assign url variable to links. Created options for different data sets to be accessed. 
+Assign url variable to links. Creat options for different data sets to be accessed. 
 
 Access data through json.
 
