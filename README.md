@@ -2,6 +2,8 @@
 
 Link to page: https://keywalsh.github.io/leaflet-challenge/
 
+The JS File and CSS file are both in the Static Folder.
+
 ## Create Map 
 
 Create a map variable and starting view.
