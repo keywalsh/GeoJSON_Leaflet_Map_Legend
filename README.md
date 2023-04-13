@@ -1,6 +1,8 @@
-## Leaflet Challenge
+# Leaflet Challenge
 
-# Create Map 
+Link to page: https://keywalsh.github.io/leaflet-challenge/
+
+## Create Map 
 
 Create a map variable and starting view.
 
@@ -21,7 +23,7 @@ properties, place, magnitude, and type.
 
 Create markers as circles with the fill color referencing the depth function and the radius referencing the magnitude function.
 
-# Create legend 
+## Create legend 
 
 Define legend position and create legend leveraging DomUtil. Reference for legend: https://codepen.io/haakseth/pen/KQbjdO
 
