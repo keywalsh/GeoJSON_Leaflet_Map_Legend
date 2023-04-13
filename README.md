@@ -1,4 +1,4 @@
-# Leaflet Challenge
+# Leaflet Challenge - Part 1
 
 Link to page: https://keywalsh.github.io/leaflet-challenge/
 
